@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VincentQuattrin
-- 👀 I’m interested in mecanics, electronics and 3D printing.
-- 🌱 I’m currently stydying electronic engineering in ENSEIRB-MATMECA, Bordeaux, FRANCE.
+- 👀 I’m interested in mechanics, electronics and 3D printing.
+- 🌱 I’ve studied electronics engineering at ENSEIRB-MATMECA, Bordeaux, FRANCE. Now I'm an RFIC engineer.
 - 💞️ LinkedIn Profile : https://www.linkedin.com/in/vincentquattrin/
 
 <!---
